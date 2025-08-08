@@ -105,11 +105,3 @@ You have awakened Ifrit! You may now rule: flag{vm_based_inferno_logic}
 * The **real flag is never in the binary or memory** as-is.
 * The solver reverse engineers the bytecode and recovers input required to pass checks.
 * Upon success, the **flag is printed** only.
-
----
-
-If you want, I can provide the Python script for this solver or help you obfuscate more or extend the VM!
-
----
-
-Ready for a harder level? Or want me to package this into a full CTF challenge ZIP with README?
