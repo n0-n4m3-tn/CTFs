@@ -1,14 +1,7 @@
----
-
 ## Challenge Description "log_maze"
 
-The volcano research station’s logs were rotated and compressed quickly before a disaster. Among these noisy logs, a secret flag is hidden — encoded in base64 inside a rotated compressed log file. Beware of fake encoded strings scattered to mislead you.
+The volcano research station’s logs were rotated and compressed quickly before a disaster. Among these noisy logs, a secret is hidden
 
-Your task: find, decode, and extract the real flag.
-
-Files provided: zipped folder of rotated and compressed logs.
-
----
 
 ## Solver Writeup — Step-by-step
 
@@ -25,7 +18,7 @@ Files provided: zipped folder of rotated and compressed logs.
    ls -l
    ```
 
-   Notice regular logs (`system.log`), rotated compressed logs (`system.log.1.gz`), and some fake logs (`fake1.log`, `fake2.log`).
+   Notice regular logs (`system.log`), rotated compressed logs (`system.log.1.gz`), and some fake logs (`log1.log`, `log2.log`).
 
 3. Search for base64 strings in the rotated compressed log:
 
@@ -48,3 +41,6 @@ Files provided: zipped folder of rotated and compressed logs.
    ```
 
 5. Ignore fake logs that contain random base64-like strings that decode to garbage.
+
+<img width="1491" height="112" alt="image" src="https://github.com/user-attachments/assets/824e76d9-fe55-4894-b6e1-887ce076891c" />
+
