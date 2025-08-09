@@ -1,4 +1,4 @@
-## Challenge Description "log_maze"
+## Challenge Description "log maze"
 
 The volcano research station’s logs were rotated and compressed quickly before a disaster. Among these noisy logs, a secret is hidden
 
