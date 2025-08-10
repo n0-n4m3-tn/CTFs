@@ -1,6 +1,6 @@
-#challenge: "Ashfall_Archives"
+# challenge: "Ashfall_Archives"
 
-- If i use this command we can see the passphrase is "magma"
+- If i use this command we can see the passphrase is "**magma**"
 
 ```bash
 $ stegseek ashfall.jpg /usr/share/wordlists/rockyou.txt
