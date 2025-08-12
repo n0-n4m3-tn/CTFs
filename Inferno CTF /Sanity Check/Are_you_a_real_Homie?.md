@@ -4,7 +4,7 @@
 
 
 - Our content hmmmmm , and also the title hints something let's think about , im sure he means "do you like the content of our club SecuriNets ISTIC :))" let's check their social media:
-- link : instagram.com/securinets_istic
+- link : https://www.instagram.com/securinets_istic/
 
 <img width="651" height="814" alt="image" src="https://github.com/user-attachments/assets/59de4cd2-3981-466d-a0b3-d8ceeedc48f2" />
 
