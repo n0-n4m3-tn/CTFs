@@ -10,6 +10,4 @@ ______________________________________________
 
 - this is a **ROT13 Cipher** u just have to search **rot13** in **cyberchef** paste your encoded text then you get your decoded text:
 
-<img width="871" height="565" alt="image" src="https://github.com/user-attachments/assets/6d91f438-05db-42fd-967c-0af056e7d123" />
-
 Flag : flag{SECRETMETHOD}
