@@ -27,9 +27,10 @@ ______________________________________________
 
 <img width="300" height="54" alt="image" src="https://github.com/user-attachments/assets/895d4e7a-e2f7-48d5-9a30-8f8d97bcb0cd" />
 
-Flag : `flag{r0b0t5_4r3_c00000l_r1ght}`
-
 - Let's access now as we saw in the picture that hidden Directory at http://localhost:8080/supersecretpage.html :
 
 <img width="424" height="143" alt="image" src="https://github.com/user-attachments/assets/33f1ee0b-4304-4386-b59b-e2fe2afab798" />
+
+
+Flag : `flag{r0b0t5_4r3_c00000l_r1ght}`
 
