@@ -32,6 +32,14 @@ Each folder in this repo corresponds to a category. Inside, you’ll find:
 - Challenge description  
 - Step-by-step solution  
 - Scripts, tools, or exploits used  
-- Flag format: `InfernoCTF{...}`  
+- Flag format: `InfernoCTF{...}`
+
+---
+
+## 🙌 Credits
+
+- **Organized by:** The Authors Of this CTF (n0_n4m3, OTC, Suk1) 🚩💀 🔥
+
+- **Special thanks:** All participants who dared to descend into the Inferno 💀
 
 ---
