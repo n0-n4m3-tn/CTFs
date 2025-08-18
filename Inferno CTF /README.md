@@ -32,7 +32,7 @@ Each folder in this repo corresponds to a category. Inside, you’ll find:
 - Challenge description  
 - Step-by-step solution  
 - Scripts, tools, or exploits used  
-- Flag format: `InfernoCTF{...}`
+- Flag format: `flag{...}`
 
 ---
 
