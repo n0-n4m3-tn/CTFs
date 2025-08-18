@@ -38,7 +38,7 @@ Each folder in this repo corresponds to a category. Inside, you’ll find:
 
 ## 🙌 Credits
 
-- **Organized by:** The Authors Of this CTF (n0_n4m3, OTC, Suk1) 🚩💀 🔥
+- **A Big Thank You To:** The Authors Of this CTF (n0_n4m3, OTC, Suk1) 🚩💀 🔥
 
 - **Special thanks:** All participants who dared to descend into the Inferno 💀
 
